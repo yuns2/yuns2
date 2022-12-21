@@ -17,8 +17,23 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/50812252/206699256-965db476-2d00-434f-be80-c509137c7432.png">
 
-### Hi there 👋
-<div style="display:flex; flex-direction:column">
+### About Me
+<hr style="padding:0; height:1.5px">
+
+💻🇰🇷 I'm a Front-end developer living in South Korea.  
+❤ Love to plan ideas that can increase user convenience.  
+🎯 Passionate about embodying those ideas on the screen.  
+🙄 Currently, I am interested in algorithms and data structure.  
+🏃‍♀️ Want to launch my own service giving an impression to users. After!  
+
+<br>
+<br>
+
+### Tech Stack
+<hr style="padding:0; height:1.5px">
+
+Techs that I've used at least once. 
+<div style="display:flex; flex-direction:column; padding-top:15px">
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -42,10 +57,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Sourcetree-0052CC?&style=for-the-badge&logo=Sourcetree&logoColor=white"/>
   </div>
 </div>
+
 <br>
 <br>
 
-### My latest projects and notes for it
+### My latest projects
+<hr style="padding:0; height:1.5px">
+
+and notes for it.
 |📌 Projects|💬 Description|✍ Notes|
 |--|--|--|
 |[wetube](https://github.com/yuns2/wetube)|Wetube Clone built using NodeJS, Express, Mongo and ES6.|[Click](https://river-bovid-86b.notion.site/55061b829e7b433299430cd1a3743fde?v=634676396b654540922870a298bf227e)|
@@ -61,6 +80,8 @@ Here are some ideas to get you started:
 <br>
 
 ### Where to find me
+<hr style="padding:0; height:1.5px">
+
 <div>
   
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/ungaem)
